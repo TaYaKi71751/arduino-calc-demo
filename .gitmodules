@@ -1,0 +1,3 @@
+[submodule "string-number"]
+	path = string-number
+	url = https://github.com/TaYaKi71751/string-number.git
